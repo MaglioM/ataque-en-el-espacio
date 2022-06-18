@@ -1,2 +1,2 @@
 # ataque-suicida
-Videojuego. La nave debe derribar a tantas naves rivales como pueda hasta ser derribada.
+Personal project for practicing videogame programming concepts. Player ship needs to take down as many enemy ships as possible.
